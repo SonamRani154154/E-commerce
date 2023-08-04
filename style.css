@@ -41,4 +41,12 @@
    background-image: linear-gradient(white sky);
    background-color: rgb(189, 231, 248);
  }
+ .bg_checkout_1{
+   background-color: #bec5fc;
+    background-image: linear-gradient(62deg, #bec5fc 0%,#e0c3fc 100%);
+ }
+ .list-group-item{
+   background-color: #bec5fc;
+    background-image: linear-gradient(62deg, #bec5fc 0%,#e0c3fc 100%);
+ }
 
