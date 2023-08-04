@@ -1,3 +1,16 @@
+ *{
+   margin: 0;
+   padding: 0;
+   scroll-behavior: smooth;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ .section_title{
+   font-weight: bolder;
+    font-size: 100px;
+    text-transform: uppercase;
+    
+ }
+ 
  /* for product details page image gallery */
  .carouse-indicators li{
     width: auto !important;
